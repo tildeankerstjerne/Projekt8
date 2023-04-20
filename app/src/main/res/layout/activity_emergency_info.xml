@@ -6,4 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".EmergencyInfo">
 
+    <Button
+        android:id="@+id/button"
+        android:layout_width="154dp"
+        android:layout_height="50dp"
+        android:text="Emergency"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="256dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
