@@ -7,10 +7,11 @@
     tools:context=".EmergencyInfo">
 
     <Button
-        android:id="@+id/button"
-        android:layout_width="154dp"
-        android:layout_height="50dp"
-        android:text="Emergency"
-        tools:layout_editor_absoluteX="117dp"
-        tools:layout_editor_absoluteY="256dp" />
+        android:id="@+id/button_close_emergency"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="close"
+        tools:layout_editor_absoluteX="257dp"
+        tools:layout_editor_absoluteY="384dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
